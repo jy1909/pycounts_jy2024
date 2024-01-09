@@ -10,12 +10,12 @@ $ pip install pycounts_jy2024
 
 ## Usage
 
-`pycounts` can be used to count words in a text file and plot results
+`pycounts_jy2024` can be used to count words in a text file and plot results
 as follows:
 
 ```python
-from pycounts.pycounts import count_words
-from pycounts.plotting import plot_words
+from pycounts_jy2024.pycounts_jy2024 import count_words
+from pycounts_jy2024.plotting import plot_words
 import matplotlib.pyplot as plt
 
 file_path = "test.txt"  # path to your file
